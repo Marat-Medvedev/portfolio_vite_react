@@ -1,0 +1,13 @@
+:root {
+  margin: 0 auto;
+  background-color: red;
+}
+
+.main-container {
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 100px 136px;
+  margin: 0 auto;
+}
